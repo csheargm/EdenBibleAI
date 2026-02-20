@@ -1,0 +1,9 @@
+{
+  "name": "EdenBible AI",
+  "description": "A feature-rich Bible application with multi-language support (CUV Chinese/English), handwriting annotations, and a suite of Gemini AI tools for study, media generation, and real-time discussion.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
